@@ -2,7 +2,7 @@
 
 `mesh_scrren` es una librería Flutter diseñada para proporcionar una interfaz de usuario avanzada para aplicaciones móviles y de escritorio. Esta librería facilita la creación de pantallas con mallas (meshes) interactivas y visualmente atractivas.
 
-![Ejemplo de mesh_scrren](https://photos.google.com/share/AF1QipMeDVi4ATxOFtNVl-8osJkEhSkwg09U2Xnw7eDzyib_22cFOPlLKlQP9eCFqTAI1A/photo/AF1QipNNOC9Luzg1KRnlgKamJ1LJgtgOMKQFSxc4mOkS?key=WVZQeldqZVNCUDFVT2tXMXhMRWNqeGduQ2hoNDBn)
+![Ejemplo de mesh_scrren](https://github.com/darkderes/mesh_scrren/blob/main/IMG_1996.JPG)
 
 ## Características
 
