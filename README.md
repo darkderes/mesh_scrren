@@ -1,16 +1,20 @@
 # mesh_scrren
 
-A new Flutter project.
+`mesh_scrren` es una librería Flutter diseñada para proporcionar una interfaz de usuario avanzada para aplicaciones móviles y de escritorio. Esta librería facilita la creación de pantallas con mallas (meshes) interactivas y visualmente atractivas.
 
-## Getting Started
+![Ejemplo de mesh_scrren](https://photos.app.goo.gl/zTmfy28bwCmN27gXA)
 
-This project is a starting point for a Flutter application.
+## Características
 
-A few resources to get you started if this is your first Flutter project:
+- **Interfaz de usuario avanzada**: Proporciona widgets y componentes para crear interfaces de usuario complejas.
+- **Compatibilidad multiplataforma**: Funciona en Android, iOS, Linux, macOS, Windows y web.
+- **Fácil de usar**: API intuitiva y bien documentada para desarrolladores de todos los niveles.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Instalación
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Para usar `mesh_scrren` en tu proyecto Flutter, añade la dependencia en tu archivo `pubspec.yaml`:
+
+```yaml
+dependencies:
+  mesh_scrren: ^1.0.0
+```
