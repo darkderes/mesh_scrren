@@ -1,6 +1,6 @@
 # mesh_scrren
 
-`mesh_scrren` es una librería Flutter diseñada para proporcionar una interfaz de usuario avanzada para aplicaciones móviles y de escritorio. Esta librería facilita la creación de pantallas con mallas (meshes) interactivas y visualmente atractivas.
+`mesh` ejemplo de uso de libreria mesh , Mesh es una librería Flutter diseñada para proporcionar una interfaz de usuario avanzada para aplicaciones móviles y de escritorio. Esta librería facilita la creación de pantallas con mallas (meshes) interactivas y visualmente atractivas.
 
 ![Ejemplo de mesh_scrren](https://github.com/darkderes/mesh_scrren/blob/main/IMG_1996.JPG)
 
@@ -12,9 +12,9 @@
 
 ## Instalación
 
-Para usar `mesh_scrren` en tu proyecto Flutter, añade la dependencia en tu archivo `pubspec.yaml`:
+Para usar `mesh` en tu proyecto Flutter, añade la dependencia en tu archivo `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  mesh_scrren: ^1.0.0
+  mesh: ^0.4.1
 ```
